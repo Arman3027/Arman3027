@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @Arman3027
 - 👀 I'm interested in web development
-- 🌱 I'm currently learning react js
+- 🌱 I'm currently learning typescript
 - 📫 solaa8239@gmail.com
